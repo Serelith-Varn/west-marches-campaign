@@ -1,8 +1,0 @@
-2026/10/04-15:54:22.406 c658 Recovering log #113
-2026/10/04-15:54:22.411 c658 Delete type=0 #113
-2026/10/04-15:54:22.411 c658 Delete type=3 #111
-2026/10/04-15:54:54.284 e05c Level-0 table #118: started
-2026/10/04-15:54:54.284 e05c Level-0 table #118: 0 bytes OK
-2026/10/04-15:54:54.286 e05c Delete type=0 #116
-2026/10/04-15:54:54.288 e05c Manual compaction at level-0 from '!folders!1LOpl2sEDaYnuA3D' @ 72057594037927935 : 1 .. '!journal.pages!PHB2024PlayeHand.PHB2024OatOfVenI' @ 0 : 0; will stop at (end)
-2026/10/04-15:54:54.288 e05c Manual compaction at level-1 from '!folders!1LOpl2sEDaYnuA3D' @ 72057594037927935 : 1 .. '!journal.pages!PHB2024PlayeHand.PHB2024OatOfVenI' @ 0 : 0; will stop at (end)

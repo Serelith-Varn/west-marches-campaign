@@ -1,8 +1,0 @@
-2026/10/03-21:37:17.556 e560 Recovering log #109
-2026/10/03-21:37:17.560 e560 Delete type=0 #109
-2026/10/03-21:37:17.560 e560 Delete type=3 #107
-2026/10/03-21:40:37.788 18e0 Level-0 table #114: started
-2026/10/03-21:40:37.788 18e0 Level-0 table #114: 0 bytes OK
-2026/10/03-21:40:37.790 18e0 Delete type=0 #112
-2026/10/03-21:40:37.795 18e0 Manual compaction at level-0 from '!folders!1LOpl2sEDaYnuA3D' @ 72057594037927935 : 1 .. '!journal.pages!PHB2024PlayeHand.PHB2024OatOfVenI' @ 0 : 0; will stop at (end)
-2026/10/03-21:40:37.795 18e0 Manual compaction at level-1 from '!folders!1LOpl2sEDaYnuA3D' @ 72057594037927935 : 1 .. '!journal.pages!PHB2024PlayeHand.PHB2024OatOfVenI' @ 0 : 0; will stop at (end)

@@ -2,7 +2,7 @@
   "id": "west-marches-campaign",
   "title": "West Marches Campaign",
   "description": "Custom adventure module containing compendium packs for D&D Beyond imports, actors, items, scenes, journals, and adventures.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Serelith-Varn",
   "compatibility": {
     "minimum": "11",
@@ -14,30 +14,9 @@
   "download": "https://github.com/Serelith-Varn/west-marches-campaign/archive/refs/heads/main.zip",
   "packs": [
     {
-      "name": "west-marches-campaign-backgrounds",
-      "label": "West Marches Campaign Backgrounds",
-      "path": "packs/west-marches-campaign-backgrounds",
-      "type": "Item",
-      "system": "dnd5e"
-    },
-    {
-      "name": "west-marches-campaign-classes",
-      "label": "West Marches Campaign Classes",
-      "path": "packs/west-marches-campaign-classes",
-      "type": "Item",
-      "system": "dnd5e"
-    },
-    {
       "name": "west-marches-campaign-effects",
       "label": "West Marches Campaign Effects",
       "path": "packs/west-marches-campaign-effects",
-      "type": "Item",
-      "system": "dnd5e"
-    },
-    {
-      "name": "west-marches-campaign-feats",
-      "label": "West Marches Campaign Feats",
-      "path": "packs/west-marches-campaign-feats",
       "type": "Item",
       "system": "dnd5e"
     },
@@ -63,20 +42,6 @@
       "system": "dnd5e"
     },
     {
-      "name": "west-marches-campaign-override",
-      "label": "West Marches Campaign Override",
-      "path": "packs/west-marches-campaign-override",
-      "type": "Item",
-      "system": "dnd5e"
-    },
-    {
-      "name": "west-marches-campaign-species",
-      "label": "West Marches Campaign Species",
-      "path": "packs/west-marches-campaign-species",
-      "type": "Item",
-      "system": "dnd5e"
-    },
-    {
       "name": "west-marches-campaign-spells",
       "label": "West Marches Campaign Spells",
       "path": "packs/west-marches-campaign-spells",
@@ -91,52 +56,24 @@
       "system": "dnd5e"
     },
     {
+      "name": "west-marches-campaign-npc",
+      "label": "West Marches Campaign NPC",
+      "path": "packs/west-marches-campaign-npc",
+      "type": "Actor",
+      "system": "dnd5e"
+    },
+    {
+      "name": "west-marches-campaign-pc",
+      "label": "West Marches Campaign PC",
+      "path": "packs/west-marches-campaign-pc",
+      "type": "Actor",
+      "system": "dnd5e"
+    },
+    {
       "name": "west-marches-campaign-tables",
       "label": "West Marches Campaign Tables",
       "path": "packs/west-marches-campaign-tables",
       "type": "RollTable",
-      "system": "dnd5e"
-    },
-    {
-      "name": "west-marches-campaign-vehicles",
-      "label": "West Marches Campaign Vehicles",
-      "path": "packs/west-marches-campaign-vehicles",
-      "type": "Actor",
-      "system": "dnd5e"
-    },
-    {
-      "name": "deep-mind-items",
-      "label": "Deep Mind Custom Items",
-      "path": "packs/deep-mind-items",
-      "type": "Item",
-      "system": "dnd5e"
-    },
-    {
-      "name": "west-marches-campaign-actors",
-      "label": "Deep Mind Actors",
-      "path": "packs/west-marches-campaign-actors",
-      "type": "Actor",
-      "system": "dnd5e"
-    },
-    {
-      "name": "west-marches-campaign-adventure",
-      "label": "Deep Mind Adventure",
-      "path": "packs/west-marches-campaign-adventure",
-      "type": "Adventure",
-      "system": "dnd5e"
-    },
-    {
-      "name": "west-marches-campaign-item",
-      "label": "Deep Mind Items",
-      "path": "packs/west-marches-campaign-item",
-      "type": "Item",
-      "system": "dnd5e"
-    },
-    {
-      "name": "west-marches-campaign-journal",
-      "label": "Deep Mind Journals",
-      "path": "packs/west-marches-campaign-journal",
-      "type": "JournalEntry",
       "system": "dnd5e"
     },
     {
