@@ -1,94 +1,148 @@
 {
   "id": "west-marches-campaign",
-  "title": "West Marches Campaign",
-  "description": "Custom module for West Marches campaign assets, hooks, configurations, and custom compendiums.",
-  "version": "1.0.1",
+  "title": "The Deep Mind",
+  "description": "Custom adventure module containing compendium packs for D&D Beyond imports, actors, items, scenes, journals, and adventures.",
+ "version": "1.0.0",
   "author": "Serelith-Varn",
-  "compatibility": {
-    "minimum": "11",
-    "verified": "14"
-  },
-  "relationships": {
-    "systems": [
-      {
-        "id": "dnd5e",
-        "type": "system",
-        "compatibility": {
-          "minimum": "5.3.3"
-        }
-      }
-    ]
-  },
+  "minimumCoreVersion": "14",
+  "compatibleCoreVersion": "14",
+  "systems": ["dnd5e"],
   "url": "https://github.com/Serelith-Varn/west-marches-campaign",
   "manifest": "https://raw.githubusercontent.com/Serelith-Varn/west-marches-campaign/main/module.json",
   "download": "https://github.com/Serelith-Varn/west-marches-campaign/archive/refs/heads/main.zip",
   "packs": [
     {
-      "name": "west-marches-campaign-actors",
-      "label": "West Marches Campaign Actors",
-      "path": "packs/actors.db",
-      "type": "Actor",
+      "name": "west-marches-campaign-backgrounds",
+      "label": "DDB Backgrounds",
+      "path": "packs/west-marches-campaign-backgrounds",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "west-marches-campaign-classes",
+      "label": "DDB Classes",
+      "path": "packs/west-marches-campaign-classes",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "west-marches-campaign-effects",
+      "label": "DDB Effects",
+      "path": "packs/west-marches-campaign-effects",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "west-marches-campaign-feats",
+      "label": "DDB Feats",
+      "path": "packs/west-marches-campaign-feats",
+      "type": "Item",
       "system": "dnd5e"
     },
     {
       "name": "west-marches-campaign-items",
-      "label": "West Marches Campaign Items",
-      "path": "packs/items.db",
+      "label": "DDB Items",
+      "path": "packs/west-marches-campaign-items",
       "type": "Item",
       "system": "dnd5e"
     },
     {
       "name": "west-marches-campaign-journals",
-      "label": "West Marches Campaign Journals",
-      "path": "packs/journals.db",
+      "label": "DDB Journals",
+      "path": "packs/west-marches-campaign-journals",
+      "type": "JournalEntry",
+      "system": "dnd5e"
+    },
+    {
+      "name": "west-marches-campaign-monsters",
+      "label": "DDB Monsters",
+      "path": "packs/west-marches-campaign-monsters",
+      "type": "Actor",
+      "system": "dnd5e"
+    },
+    {
+      "name": "west-marches-campaign-override",
+      "label": "DDB Override",
+      "path": "packs/west-marches-campaign-override",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "west-marches-campaign-species",
+      "label": "DDB Species",
+      "path": "packs/west-marches-campaign-species",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "west-marches-campaign-spells",
+      "label": "DDB Spells",
+      "path": "packs/west-marches-campaign-spells",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "west-marches-campaign-summons",
+      "label": "DDB Summons",
+      "path": "packs/west-marches-campaign-summons",
+      "type": "Actor",
+      "system": "dnd5e"
+    },
+    {
+      "name": "west-marches-campaign-tables",
+      "label": "DDB Tables",
+      "path": "packs/west-marches-campaign-tables",
+      "type": "RollTable",
+      "system": "dnd5e"
+    },
+    {
+      "name": "west-marches-campaign-vehicles",
+      "label": "DDB Vehicles",
+      "path": "packs/west-marches-campaign-vehicles",
+      "type": "Actor",
+      "system": "dnd5e"
+    },
+    {
+      "name": "deep-mind-items",
+      "label": "Deep Mind Custom Items",
+      "path": "packs/deep-mind-items",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "west-marches-campaign-actors",
+      "label": "Deep Mind Actors",
+      "path": "packs/west-marches-campaign-actors",
+      "type": "Actor",
+      "system": "dnd5e"
+    },
+    {
+      "name": "west-marches-campaign-adventure",
+      "label": "Deep Mind Adventure",
+      "path": "packs/west-marches-campaign-adventure",
+      "type": "Adventure",
+      "system": "dnd5e"
+    },
+    {
+      "name": "west-marches-campaign-item",
+      "label": "Deep Mind Items",
+      "path": "packs/west-marches-campaign-item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "west-marches-campaign-journal",
+      "label": "Deep Mind Journals",
+      "path": "packs/west-marches-campaign-journal",
       "type": "JournalEntry",
       "system": "dnd5e"
     },
     {
       "name": "west-marches-campaign-scenes",
-      "label": "West Marches Campaign Scenes",
-      "path": "packs/scenes.db",
+      "label": "Deep Mind Scenes",
+      "path": "packs/west-marches-campaign-scenes",
       "type": "Scene",
       "system": "dnd5e"
-    },
-    {
-      "name": "west-marches-campaign-tables",
-      "label": "West Marches Roll Tables",
-      "path": "packs/tables.db",
-      "type": "RollTable",
-      "system": "dnd5e"
     }
-  ],
-  "packFolders": [
-    {
-      "name": "West Marches Campaign",
-      "color": "#1e72cc",
-      "sorting": "m",
-      "packs": [
-        "west-marches-campaign-actors",
-        "west-marches-campaign-items",
-        "west-marches-campaign-journals",
-        "west-marches-campaign-scenes",
-        "west-marches-campaign-tables"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "lang/en.json"
-    },
-    {
-      "lang": "pt-PT",
-      "name": "Português (Portugal)",
-      "path": "lang/pt-PT.json"
-    }
-  ],
-  "styles": [
-    "styles/module.css"
-  ],
-  "scripts": [
-    "scripts/main.js"
   ]
 }
