@@ -16,70 +16,70 @@
     {
       "name": "west-marches-campaign-effects",
       "label": "West Marches Campaign Effects",
-      "path": "packs/west-marches-campaign-effects",
+      "path": "packs/weast-marches-campaign/west-marches-campaign-effects",
       "type": "Item",
       "system": "dnd5e"
     },
     {
       "name": "west-marches-campaign-items",
       "label": "West Marches Campaign Items",
-      "path": "packs/west-marches-campaign-items",
+      "path": "packs/weast-marches-campaign/west-marches-campaign-items",
       "type": "Item",
       "system": "dnd5e"
     },
     {
       "name": "west-marches-campaign-journals",
       "label": "West Marches Campaign Journals",
-      "path": "packs/west-marches-campaign-journals",
+      "path": "packs/weast-marches-campaign/west-marches-campaign-journal",
       "type": "JournalEntry",
       "system": "dnd5e"
     },
     {
       "name": "west-marches-campaign-monsters",
       "label": "West Marches Campaign Monsters",
-      "path": "packs/west-marches-campaign-monsters",
+      "path": "packs/weast-marches-campaign/west-marches-campaign-monsters",
       "type": "Actor",
       "system": "dnd5e"
     },
     {
       "name": "west-marches-campaign-spells",
       "label": "West Marches Campaign Spells",
-      "path": "packs/west-marches-campaign-spells",
+      "path": "packs/weast-marches-campaign/west-marches-campaign-spells",
       "type": "Item",
       "system": "dnd5e"
     },
     {
       "name": "west-marches-campaign-summons",
       "label": "West Marches Campaign Summons",
-      "path": "packs/west-marches-campaign-summons",
+      "path": "packs/weast-marches-campaign/west-marches-campaign-summons",
       "type": "Actor",
       "system": "dnd5e"
     },
     {
       "name": "west-marches-campaign-npc",
       "label": "West Marches Campaign NPC",
-      "path": "packs/west-marches-campaign-npc",
+      "path": "packs/weast-marches-campaign/west-marches-campaign-npc",
       "type": "Actor",
       "system": "dnd5e"
     },
     {
       "name": "west-marches-campaign-pc",
       "label": "West Marches Campaign PC",
-      "path": "packs/west-marches-campaign-pc",
+      "path": "packs/weast-marches-campaign/west-marches-campaign-pc",
       "type": "Actor",
       "system": "dnd5e"
     },
     {
       "name": "west-marches-campaign-tables",
       "label": "West Marches Campaign Tables",
-      "path": "packs/west-marches-campaign-tables",
+      "path": "packs/weast-marches-campaign/west-marches-campaign-tables",
       "type": "RollTable",
       "system": "dnd5e"
     },
     {
       "name": "west-marches-campaign-scenes",
       "label": "West Marches Campaign",
-      "path": "packs/west-marches-campaign-scenes",
+      "path": "packs/weast-marches-campaign/west-marches-campaign-scenes",
       "type": "Scene",
       "system": "dnd5e"
     }
