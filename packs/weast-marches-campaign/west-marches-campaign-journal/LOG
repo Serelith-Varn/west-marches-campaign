@@ -1,1 +1,8 @@
-2026/10/04-18:32:02.703 eb44 Delete type=3 #1
+2026/10/04-18:56:24.622 b3cc Recovering log #53
+2026/10/04-18:56:24.623 b3cc Level-0 table #55: started
+2026/10/04-18:56:24.626 b3cc Level-0 table #55: 98342 bytes OK
+2026/10/04-18:56:24.631 b3cc Delete type=0 #3
+2026/10/04-18:56:24.631 b3cc Delete type=0 #53
+2026/10/04-18:56:24.631 b3cc Delete type=3 #2
+2026/10/04-18:56:24.631 b3cc Delete type=3 #4
+2026/10/04-18:56:24.631 b3cc Delete type=3 #51

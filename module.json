@@ -2,7 +2,7 @@
   "id": "west-marches-campaign",
   "title": "West Marches Campaign",
   "description": "Custom adventure module containing compendium packs for D&D Beyond imports, actors, items, scenes, journals, and adventures.",
-  "version": "1.0.3",
+  "version": "1.1",
   "author": "Serelith-Varn",
   "compatibility": {
     "minimum": "11",

@@ -1,3 +1,8 @@
-2026/10/04-17:52:25.663 e31c Recovering log #45
-2026/10/04-17:52:25.668 e31c Delete type=0 #45
-2026/10/04-17:52:25.668 e31c Delete type=3 #43
+2026/10/04-18:42:13.043 3ca8 Recovering log #3
+2026/10/04-18:42:13.043 3ca8 Level-0 table #5: started
+2026/10/04-18:42:13.045 3ca8 Level-0 table #5: 96737 bytes OK
+2026/10/04-18:42:13.047 3ca8 Recovering log #52
+2026/10/04-18:42:13.052 3ca8 Delete type=0 #3
+2026/10/04-18:42:13.052 3ca8 Delete type=2 #48
+2026/10/04-18:42:13.052 3ca8 Delete type=0 #52
+2026/10/04-18:42:13.052 3ca8 Delete type=3 #2
