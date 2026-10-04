@@ -2,7 +2,7 @@
   "id": "west-marches-campaign",
   "title": "West Marches Campaign",
   "description": "Custom adventure module containing compendium packs for D&D Beyond imports, actors, items, scenes, journals, and adventures.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Serelith-Varn",
   "compatibility": {
     "minimum": "11",
@@ -78,7 +78,7 @@
     },
     {
       "name": "west-marches-campaign-scenes",
-      "label": "Deep Mind Scenes",
+      "label": "West Marches Campaign",
       "path": "packs/west-marches-campaign-scenes",
       "type": "Scene",
       "system": "dnd5e"
