@@ -1,0 +1,7 @@
+2026/10/03-21:37:17.548 cef4 Recovering log #106
+2026/10/03-21:37:17.553 cef4 Delete type=0 #106
+2026/10/03-21:37:17.553 cef4 Delete type=3 #104
+2026/10/03-21:40:37.793 18e0 Level-0 table #111: started
+2026/10/03-21:40:37.793 18e0 Level-0 table #111: 0 bytes OK
+2026/10/03-21:40:37.795 18e0 Delete type=0 #109
+2026/10/03-21:40:37.795 18e0 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)

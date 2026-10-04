@@ -1,0 +1,7 @@
+2026/10/03-21:33:15.864 cef4 Recovering log #106
+2026/10/03-21:33:15.868 cef4 Delete type=0 #106
+2026/10/03-21:33:15.868 cef4 Delete type=3 #104
+2026/10/03-21:37:13.989 18e0 Level-0 table #111: started
+2026/10/03-21:37:13.989 18e0 Level-0 table #111: 0 bytes OK
+2026/10/03-21:37:13.992 18e0 Delete type=0 #109
+2026/10/03-21:37:13.997 18e0 Manual compaction at level-0 from '!folders!xq2yvCTq5ZoeeaXu' @ 72057594037927935 : 1 .. '!items!zavE6aZekRIjFSiw' @ 0 : 0; will stop at (end)

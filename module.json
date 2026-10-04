@@ -1,0 +1,94 @@
+{
+  "id": "west-marches-campaign",
+  "title": "West Marches Campaign",
+  "description": "Custom module for West Marches campaign assets, hooks, configurations, and custom compendiums.",
+  "version": "1.0.1",
+  "author": "Serelith-Varn",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "14"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "5.3.3"
+        }
+      }
+    ]
+  },
+  "url": "https://github.com/Serelith-Varn/west-marches-campaign",
+  "manifest": "https://raw.githubusercontent.com/Serelith-Varn/west-marches-campaign/main/module.json",
+  "download": "https://github.com/Serelith-Varn/west-marches-campaign/archive/refs/heads/main.zip",
+  "packs": [
+    {
+      "name": "west-marches-campaign-actors",
+      "label": "West Marches Campaign Actors",
+      "path": "packs/actors.db",
+      "type": "Actor",
+      "system": "dnd5e"
+    },
+    {
+      "name": "west-marches-campaign-items",
+      "label": "West Marches Campaign Items",
+      "path": "packs/items.db",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "west-marches-campaign-journals",
+      "label": "West Marches Campaign Journals",
+      "path": "packs/journals.db",
+      "type": "JournalEntry",
+      "system": "dnd5e"
+    },
+    {
+      "name": "west-marches-campaign-scenes",
+      "label": "West Marches Campaign Scenes",
+      "path": "packs/scenes.db",
+      "type": "Scene",
+      "system": "dnd5e"
+    },
+    {
+      "name": "west-marches-campaign-tables",
+      "label": "West Marches Roll Tables",
+      "path": "packs/tables.db",
+      "type": "RollTable",
+      "system": "dnd5e"
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "West Marches Campaign",
+      "color": "#1e72cc",
+      "sorting": "m",
+      "packs": [
+        "west-marches-campaign-actors",
+        "west-marches-campaign-items",
+        "west-marches-campaign-journals",
+        "west-marches-campaign-scenes",
+        "west-marches-campaign-tables"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "pt-PT",
+      "name": "Português (Portugal)",
+      "path": "lang/pt-PT.json"
+    }
+  ],
+  "styles": [
+    "styles/module.css"
+  ],
+  "scripts": [
+    "scripts/main.js"
+  ]
+}

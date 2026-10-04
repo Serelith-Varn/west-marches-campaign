@@ -1,0 +1,18 @@
+2026/10/04-15:10:08.904 1014c Recovering log #220
+2026/10/04-15:10:08.904 1014c Level-0 table #222: started
+2026/10/04-15:10:08.906 1014c Level-0 table #222: 7045 bytes OK
+2026/10/04-15:10:08.910 1014c Delete type=0 #220
+2026/10/04-15:10:08.910 1014c Delete type=3 #219
+2026/10/04-15:10:09.035 bb4 Moved #222 to level-1 7045 bytes OK: files[ 0 1 5 0 0 0 0 ]
+2026/10/04-15:10:09.042 bb4 Compacting 1@1 + 4@2 files
+2026/10/04-15:10:09.066 bb4 Generated table #224@1: 1042 keys, 2123004 bytes
+2026/10/04-15:10:09.159 bb4 Generated table #225@1: 1219 keys, 2123469 bytes
+2026/10/04-15:10:09.257 bb4 Generated table #226@1: 1246 keys, 2123297 bytes
+2026/10/04-15:10:09.310 bb4 Generated table #227@1: 2181 keys, 1398055 bytes
+2026/10/04-15:10:09.310 bb4 Compacted 1@1 + 4@2 files => 7767825 bytes
+2026/10/04-15:10:09.311 bb4 compacted to: files[ 0 0 5 0 0 0 0 ]
+2026/10/04-15:10:09.311 bb4 Delete type=2 #151
+2026/10/04-15:10:09.311 bb4 Delete type=2 #152
+2026/10/04-15:10:09.311 bb4 Delete type=2 #153
+2026/10/04-15:10:09.312 bb4 Delete type=2 #154
+2026/10/04-15:10:09.312 bb4 Delete type=2 #222

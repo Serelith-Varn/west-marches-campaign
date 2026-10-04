@@ -1,0 +1,8 @@
+2026/10/03-21:33:15.931 539c Recovering log #18
+2026/10/03-21:33:15.935 539c Delete type=0 #18
+2026/10/03-21:33:15.935 539c Delete type=3 #16
+2026/10/03-21:37:14.017 18e0 Level-0 table #23: started
+2026/10/03-21:37:14.017 18e0 Level-0 table #23: 0 bytes OK
+2026/10/03-21:37:14.019 18e0 Delete type=0 #21
+2026/10/03-21:37:14.019 18e0 Manual compaction at level-0 from '!effects!ddbAlustMoWiMo24' @ 72057594037927935 : 1 .. '!folders!y3tLI1h87zOQiZgw' @ 0 : 0; will stop at (end)
+2026/10/03-21:37:14.019 18e0 Manual compaction at level-1 from '!effects!ddbAlustMoWiMo24' @ 72057594037927935 : 1 .. '!folders!y3tLI1h87zOQiZgw' @ 0 : 0; will stop at (end)
