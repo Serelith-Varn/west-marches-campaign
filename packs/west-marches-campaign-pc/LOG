@@ -1,0 +1,48 @@
+2026/10/04-16:37:23.095 e31c Recovering log #19
+2026/10/04-16:37:23.100 e31c Level-0 table #27: started
+2026/10/04-16:37:23.116 e31c Level-0 table #27: 1791863 bytes OK
+2026/10/04-16:37:23.120 e31c Delete type=0 #19
+2026/10/04-16:37:23.120 e31c Delete type=3 #2
+2026/10/04-16:37:23.168 10d58 Moved #27 to level-1 1791863 bytes OK: files[ 0 1 5 0 0 0 0 ]
+2026/10/04-16:37:23.179 10d58 Compacting 1@1 + 5@2 files
+2026/10/04-16:37:23.202 10d58 Generated table #29@1: 1036 keys, 2120921 bytes
+2026/10/04-16:37:23.293 10d58 Generated table #30@1: 1118 keys, 2124782 bytes
+2026/10/04-16:37:23.373 10d58 Generated table #31@1: 1118 keys, 2132242 bytes
+2026/10/04-16:37:23.396 10d58 Generated table #32@1: 1831 keys, 2126898 bytes
+2026/10/04-16:37:23.403 10d58 Generated table #33@1: 1001 keys, 446475 bytes
+2026/10/04-16:37:23.403 10d58 Compacted 1@1 + 5@2 files => 8951318 bytes
+2026/10/04-16:37:23.404 10d58 compacted to: files[ 0 0 5 0 0 0 0 ]
+2026/10/04-16:37:23.405 10d58 Delete type=2 #21
+2026/10/04-16:37:23.405 10d58 Delete type=2 #22
+2026/10/04-16:37:23.405 10d58 Delete type=2 #23
+2026/10/04-16:37:23.405 10d58 Delete type=2 #24
+2026/10/04-16:37:23.406 10d58 Delete type=2 #25
+2026/10/04-16:37:23.406 10d58 Delete type=2 #27
+2026/10/04-16:38:05.657 10d58 Level-0 table #35: started
+2026/10/04-16:38:05.678 10d58 Level-0 table #35: 2237831 bytes OK
+2026/10/04-16:38:05.679 10d58 Delete type=0 #28
+2026/10/04-16:38:06.800 10d58 Compacting 1@1 + 5@2 files
+2026/10/04-16:38:06.824 10d58 Generated table #36@1: 994 keys, 2123449 bytes
+2026/10/04-16:38:06.925 10d58 Generated table #37@1: 1108 keys, 2124450 bytes
+2026/10/04-16:38:06.973 10d58 Generated table #38@1: 1747 keys, 1537147 bytes
+2026/10/04-16:38:06.973 10d58 Compacted 1@1 + 5@2 files => 5785046 bytes
+2026/10/04-16:38:06.974 10d58 compacted to: files[ 0 0 3 0 0 0 0 ]
+2026/10/04-16:38:06.974 10d58 Delete type=2 #29
+2026/10/04-16:38:06.974 10d58 Delete type=2 #30
+2026/10/04-16:38:06.974 10d58 Delete type=2 #31
+2026/10/04-16:38:06.975 10d58 Delete type=2 #32
+2026/10/04-16:38:06.975 10d58 Delete type=2 #33
+2026/10/04-16:38:06.975 10d58 Delete type=2 #35
+2026/10/04-16:38:18.348 10d58 Level-0 table #40: started
+2026/10/04-16:38:18.367 10d58 Level-0 table #40: 2149092 bytes OK
+2026/10/04-16:38:18.368 10d58 Delete type=0 #34
+2026/10/04-16:38:19.538 10d58 Compacting 1@1 + 3@2 files
+2026/10/04-16:38:19.562 10d58 Generated table #41@1: 994 keys, 2123398 bytes
+2026/10/04-16:38:19.673 10d58 Generated table #42@1: 1107 keys, 2121697 bytes
+2026/10/04-16:38:19.720 10d58 Generated table #43@1: 1748 keys, 1540090 bytes
+2026/10/04-16:38:19.720 10d58 Compacted 1@1 + 3@2 files => 5785185 bytes
+2026/10/04-16:38:19.721 10d58 compacted to: files[ 0 0 3 0 0 0 0 ]
+2026/10/04-16:38:19.722 10d58 Delete type=2 #36
+2026/10/04-16:38:19.722 10d58 Delete type=2 #37
+2026/10/04-16:38:19.722 10d58 Delete type=2 #38
+2026/10/04-16:38:19.723 10d58 Delete type=2 #40

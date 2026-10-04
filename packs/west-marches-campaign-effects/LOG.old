@@ -1,8 +1,15 @@
-2026/10/03-21:33:15.931 539c Recovering log #18
-2026/10/03-21:33:15.935 539c Delete type=0 #18
-2026/10/03-21:33:15.935 539c Delete type=3 #16
-2026/10/03-21:37:14.017 18e0 Level-0 table #23: started
-2026/10/03-21:37:14.017 18e0 Level-0 table #23: 0 bytes OK
-2026/10/03-21:37:14.019 18e0 Delete type=0 #21
-2026/10/03-21:37:14.019 18e0 Manual compaction at level-0 from '!effects!ddbAlustMoWiMo24' @ 72057594037927935 : 1 .. '!folders!y3tLI1h87zOQiZgw' @ 0 : 0; will stop at (end)
-2026/10/03-21:37:14.019 18e0 Manual compaction at level-1 from '!effects!ddbAlustMoWiMo24' @ 72057594037927935 : 1 .. '!folders!y3tLI1h87zOQiZgw' @ 0 : 0; will stop at (end)
+2026/10/03-21:37:17.572 e1c0 Recovering log #22
+2026/10/03-21:37:17.577 e1c0 Delete type=0 #22
+2026/10/03-21:37:17.577 e1c0 Delete type=3 #20
+2026/10/03-21:40:37.796 18e0 Level-0 table #27: started
+2026/10/03-21:40:37.802 18e0 Level-0 table #27: 1072 bytes OK
+2026/10/03-21:40:37.804 18e0 Delete type=0 #25
+2026/10/03-21:40:37.810 18e0 Manual compaction at level-0 from '!effects!ddbAlustMoWiMo24' @ 72057594037927935 : 1 .. '!folders!y3tLI1h87zOQiZgw' @ 0 : 0; will stop at (end)
+2026/10/03-21:40:37.810 18e0 Manual compaction at level-1 from '!effects!ddbAlustMoWiMo24' @ 72057594037927935 : 1 .. '!folders!y3tLI1h87zOQiZgw' @ 0 : 0; will stop at '!effects!ddbPassWitTPWT24' @ 38 : 1
+2026/10/03-21:40:37.810 18e0 Compacting 1@1 + 1@2 files
+2026/10/03-21:40:37.813 18e0 Generated table #28@1: 21 keys, 5762 bytes
+2026/10/03-21:40:37.813 18e0 Compacted 1@1 + 1@2 files => 5762 bytes
+2026/10/03-21:40:37.815 18e0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/03-21:40:37.815 18e0 Delete type=2 #7
+2026/10/03-21:40:37.815 18e0 Delete type=2 #27
+2026/10/03-21:40:37.819 18e0 Manual compaction at level-1 from '!effects!ddbPassWitTPWT24' @ 38 : 1 .. '!folders!y3tLI1h87zOQiZgw' @ 0 : 0; will stop at (end)
